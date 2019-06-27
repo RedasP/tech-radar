@@ -23,6 +23,7 @@ const OS_LICENSES = {
   'MPL-1.1': 'Mozilla Public License (MPL) Version 1.1',
   'MPL-2.0': 'Mozilla Public License (MPL) Version 2.0',
   Public: 'Public Domain',
+  'Google' : 'Google Managed Service',
 };
 
 const License = (props) => {
